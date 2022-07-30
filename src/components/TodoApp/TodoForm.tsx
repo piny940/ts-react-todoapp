@@ -6,7 +6,7 @@ import Col from "react-bootstrap/Col"
 
 export const TodoForm: React.FC = () => {
   return (
-    <Form className="w-75 mx-auto">
+    <Form className="mx-auto">
       <FormItem label="Todoの内容を入力">
         <Form.Control  />
       </FormItem>
